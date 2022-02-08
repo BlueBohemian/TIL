@@ -1,0 +1,5 @@
+ㅇ Git reset 사용
+ㅇ Git brunch 사용
+ㅇ Git 사용법 숙지 ( 1회독 - 훑어보기 )
+ㅇ HTML 호스팅 완료
+ㅇ 내일 생활코딩 WEB 완독 예정
