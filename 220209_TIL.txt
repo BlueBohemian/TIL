@@ -1,0 +1,12 @@
+~ HTML/CSS ~
+ㅇ 생활코딩 HTML 수강완료 - 입문 태그 사용 가능
+ㅇ 생활코딩 CSS 수강 진행중
+
+~ Git/GitHub ~
+ㅇ Git 생활코딩 수강 진행중 - 책과 병행 예정
+ㅇ Do it 깃깃허브 입문 공부단 신청완료
+ㅇ 소스트리 재설치 에러 해결
+ㅇ Clone / config --global user.name / config --global user.email 사용
+
+~ 프로젝트 ~
+Git TIL 복습을 활용한 프로젝트 의견 제시 완료
