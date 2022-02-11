@@ -1,0 +1,28 @@
+22.02.11._TIL
+
+GIT 강의수강 - 호눅스
+
+카드뭉치되돌리기
+카드뭉치버리기
+
+checkout 7자리
+checkout -
+
+git clone 주소 .
+
+브랜치 병합
+브랜치 삭제
+
+git remote add origin "주소"
+git branch -M main
+git push -u origin main
+
+pwd
+
+cd
+cd ..
+cd ""
+cd ./
+
+ls
+ls -al
