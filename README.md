@@ -3,20 +3,26 @@
 [TIL]Total
 [TIL]Individual
 
+<br/>
+
 [WIL]Individual
 [MIL]Self-improvement
+
+<br/>
 
 [Total]Individual
 [Total]ALL
 
+<br/>
+
 [Final]Individual
 [Final]ALL
 
+<br/>
 
+<br/>
 
-
-
-
+<br/>
 
 # 1. TIL 루틴
 
@@ -31,7 +37,7 @@
 | **예시** | [TIL]220216_Total                                            |
 | **기간** | 단기성, 당일활용                                             |
 
-
+<br/>
 
 #### 2) [TIL]Individual 
 
@@ -42,7 +48,7 @@
 | **예시** | [TIL]220216_JavaScript생활코딩<br />[TIL]220216_HTML/CSS(인프런)어쩌구 |
 | **기간** | 단기성, 주말활용                                             |
 
-
+<br/>
 
 #### 3) [Total]Individual
 
@@ -53,23 +59,23 @@
 | **예시** | [Total]JavaScript생활코딩<br/>[Total]JavaScript(인프런)어쩌구 |
 | **기간** | 영속성, 회독예정                                             |
 
+<br/>
 
+<br/>
 
-
-
-
+<br/>
 
 # 2. WIL 루틴
 
  한 주 동안 공부한 분량 종합하고, 복습, 정리, 피드백하는 방법이다. TIL 자료들을 WIL로 변환 시키고 공부하기 위함이다.
 
-
+<br/>
 
 #### 1) 파일 전환하기 [TIL => WIL]
 
 [TIL]Individual => [WIL]Individual 
 
-
+<br/>
 
 #### 2) [WIL]Individual ( 폴더 )
 
@@ -80,7 +86,7 @@
 | **예시** | [WIL]2202FirstWeek_JavaScript생활코딩<br/>[WIL]2202FirstWeek_HTML/CSS(인프런)어쩌구 |
 | **기간** | 단기성, 주말활용                                             |
 
-
+<br/>
 
 #### 3) [Total]ALL
 
@@ -91,18 +97,18 @@
 | **예시** | [Total]JavaScript_ALL<br/>[Total]HTML/CSS_ALL         |
 | **기간** | 영속성, 영구                                          |
 
-
+<br/>
 
 #### 4) 주말 피드백
 
 * 코딩 공부 피드백
 * 주말 습관 피드백
 
+<br/>
 
+<br/>
 
-
-
-
+<br/>
 
 # 3. MIL 루틴
 
@@ -114,11 +120,11 @@
 * 전체 습관 메뉴얼
 * 한달 습관 피드백
 
+<br/>
 
+<br/>
 
-
-
-
+<br/>
 
 # 4. FINAL 루틴
 
@@ -152,3 +158,4 @@
 
 ---
 
+<br/>
