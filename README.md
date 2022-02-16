@@ -1,22 +1,11 @@
-# 모든 폴더명
+# TIL 관리 계획서
 
-1. [TIL]Total<br/>
-2. [TIL]Individual
-
-<br/>
-
-3. [WIL]Individual<br/>
-4. [MIL]Self-improvement
-
-<br/>
-
-5. [Total]Individual<br/>
-6. [Total]ALL
-
-<br/>
-
-7. [Final]Individual<br/>
-8. [Final]ALL
+| 모든 폴더명                                    |
+| ---------------------------------------------- |
+| 1. [TIL]Total<br/>2. [TIL]Individual           |
+| 3. [WIL]Individua<br/>4. [MIL]Self-improvement |
+| 5. [Total]Individual<br/>6. [Total]ALL         |
+| 7. [Final]Individual<br/>8. [Final]ALL         |
 
 <br/>
 
