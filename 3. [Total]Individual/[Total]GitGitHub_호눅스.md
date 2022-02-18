@@ -14,7 +14,7 @@ https://www.youtube.com/channel/UCFTMvQIeO94gru6JDn0seDw
 
 ---
 
-ㅇ Git은 인증에 Git Credential Manager를 사용하고 있다.
+ㅇ Git은 인증에 Git Credential Manager를 사용하고 있다. 흠..
 
 ---
 
