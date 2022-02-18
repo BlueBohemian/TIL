@@ -1,11 +1,11 @@
 # TIL 관리 계획서
 
-| 모든 폴더명                                     |
-| ----------------------------------------------- |
-| 1. [TIL]Total<br/>2. [TIL]Individual            |
-| 3. [Total]Individual<br/>4. [Total]ALL          |
-| 5. [WIL]Individual<br/>6. [MIL]Self-improvement |
-| 7. [Final]Individual<br/>8. [Final]ALL          |
+| 모든 폴더명                                      |
+| ------------------------------------------------ |
+| 1. [TIL]Individual<br/>2. [TIL]ALL               |
+| 3. [Semi-Final]Individual<br/>4. [Semi-Final]ALL |
+| 5. [WIL]Individual<br/>6. [MIL]Self-improvement  |
+| 7. [Final]Individual<br/>8. [Final]ALL           |
 
 <br/>
 
@@ -17,35 +17,37 @@
 
 하루 동안 공부한 분량, 복습, 정리하는 루틴이다.
 
-#### 1. [TIL]Total
+<br>
 
-| 폴더명       | 1. [TIL]Total                                                |
-| ------------ | ------------------------------------------------------------ |
-| **내용**     | 하루 동안 공부한 모든 내용                                   |
-| **용도**     | 복습용 - 오직 당일 복습 용도로 '밤', '아침'에 2번 복습할 내용<br/> ( ★ 쟁점노트 만들기 ★ ) |
-| **파일형태** | [TIL]220101_Total(concept)<br/>[TIL]220101_Total(problem)    |
-| **기간**     | 단기성, 당일활용                                             |
+#### 1. [TIL]Individual 
 
-<br/>
-
-#### 2. [TIL]Individual 
-
-| 폴더명       | 2. [TIL]Individual                                           |
+| 폴더명       | 1. [TIL]Individual                                           |
 | ------------ | ------------------------------------------------------------ |
 | **내용**     | 하루 동안 공부한 개별 내용                                   |
 | **용도**     | WIL 정리용 - WIL에 사용될 자료들<br/>( ★ 쟁점노트 만들기 ★ ) |
-| **파일형태** | [TIL]220101_JavaScript(생활코딩[concept])<br />[TIL]220101_JavaScript(생활코딩[problem])<br />[TIL]220101_HTML/CSS(인프런[concept])<br />[TIL]220101_HTML/CSS(인프런[problem]) |
+| **파일형태** | [TIL]220101_JavaScript(생활코딩)(concept)<br />[TIL]220101_JavaScript(생활코딩)(problem)<br />[TIL]220101_HTML/CSS(인프런)(concept)<br />[TIL]220101_HTML/CSS(인프런)(problem) |
 | **기간**     | 단기성, 주말활용                                             |
 
 <br/>
 
-#### 3. [Total]Individual
+#### 2. [TIL]ALL
 
-| 폴더명       | 3. [Total]Individual                                         |
+| 폴더명       | 2. [TIL]ALL                                                  |
+| ------------ | ------------------------------------------------------------ |
+| **내용**     | 하루 동안 공부한 모든 내용                                   |
+| **용도**     | 복습용 - 오직 당일 복습 용도로 '밤', '아침'에 2번 복습할 내용<br/> ( ★ 쟁점노트 만들기 ★ ) |
+| **파일형태** | [TIL]220101_TodayStudy(ALL)(concept)<br/>[TIL]220101_TodayStudy(ALL)(problem) |
+| **기간**     | 단기성, 당일활용                                             |
+
+<br/>
+
+#### 3. [Semi-Final]Individual
+
+| 폴더명       | 3. [Semi-Final]Individual                                    |
 | ------------ | ------------------------------------------------------------ |
 | **내용**     | 지금까지 개별 정리한 내용                                    |
 | **용도**     | 지속적으로 공부하다가 모르는 내용 나오면 참고하기 위함<br/>하루 동안 개별 공부한 내용들 강좌에 맞게 정리하기 위함 |
-| **파일형태** | [Total]JavaScript(생활코딩[concept])<br/>[Total]JavaScript(생활코딩[problem])<br/>[Total]JavaScript(인프런[concept])<br/>[Total]JavaScript(인프런[problem]) |
+| **파일형태** | [Semi-Final]JavaScript(생활코딩)(concept)<br/>[Semi-Final]JavaScript(생활코딩)(problem)<br/>[Semi-Final]JavaScript(인프런)(concept)<br/>[Semi-Final]JavaScript(인프런)(problem) |
 | **기간**     | 영속성, 회독예정                                             |
 
 <br/>
@@ -66,13 +68,13 @@
 
 <br/>
 
-#### 4. [Total]ALL
+#### 4. [Semi-Final]ALL
 
-| 폴더명       | 4. [Total]ALL                                                |
+| 폴더명       | 4. [Semi-Final]ALL                                           |
 | ------------ | ------------------------------------------------------------ |
 | **내용**     | 강좌 상관없이 각 카테고리 별로 종합한 내용                   |
 | **용도**     | 전체 복습 - 개별 공부한 강좌 내용들 정리하고 복습하기        |
-| **파일형태** | [Total]JavaScript_ALL(concept)<br/>[Total]JavaScript_ALL(problem)<br/>[Total]HTML/CSS_ALL(concept)<br/>[Total]HTML/CSS_ALL(problem) |
+| **파일형태** | [Semi-Final]JavaScript(ALL)(concept)<br/>[Semi-Final]JavaScript(ALL)(problem)<br/>[Semi-Final]HTML/CSS(ALL)(concept)<br/>[Semi-Final]HTML/CSS(ALL)(problem) |
 | **기간**     | 영속성, 영구                                                 |
 
 <br/><br/>
@@ -83,7 +85,7 @@
 | ------------ | ------------------------------------------------------------ |
 | **내용**     | 주말 동안 종합 복습할 내용                                   |
 | **용도**     | 복습 - 오직 주말 복습 용도로 파일 생성날 부터 1, 2주차에 2번 복습할 내용<br/>( ★ 쟁점노트 선별하기 ★ ) |
-| **파일형태** | [WIL]2202FirstWeek_JavaScript(생활코딩[concept])<br/>[WIL]2202FirstWeek_JavaScript(생활코딩[problem])<br/>[WIL]2202FirstWeek_HTML/CSS(인프런[concept])<br/>[WIL]2202FirstWeek_HTML/CSS(인프런[problem]) |
+| **파일형태** | [WIL]2202FirstWeek_JavaScript(생활코딩)(concept)<br/>[WIL]2202FirstWeek_JavaScript(생활코딩)(problem)<br/>[WIL]2202FirstWeek_HTML/CSS(인프런)(concept)<br/>[WIL]2202FirstWeek_HTML/CSS(인프런)(problem) |
 | **기간**     | 단기성, 주말활용                                             |
 
 <br/><br/>
@@ -122,11 +124,11 @@
 
 # Ⅳ. FINAL 루틴
 
-#### IF 조건 = [Total]ALL 파일이 완성되었을시
+#### IF 조건 = [Semi-Final]ALL 파일이 완성되었을시
 
 * [1차] 기본 강좌 만들기 
   ( 사실상 주니어 시절 만드는 강좌다. 완벽할 필요는 없다. )
-* '[Total]ALL' 폴더를 활용하여 티스토리에 강좌를 작성한다.
+* **[Semi-Final]ALL** 폴더를 활용하여 티스토리와 유튜브로 강의 작업을 진행한다.
 
 ----------------------------------------------------------------------------------------
 #### IF 조건 = 강좌 하나를 완강 했을시
@@ -138,14 +140,14 @@
 | ------ | ------------- |
 
 1) **강좌 회독을 진행한다.**
-   **3. [Total]Individual** 자료들을 활용하여 수업을 진행한다. 
+   **3. [Semi-Final]Individual** 자료들을 활용하여 수업을 진행한다. 
    회독중 부족한 내용 발견시 보충해준다. 
 2. **X회독이 끝냈을 시**
 
-   **3. [Total]Individual** 파일 => **7. [Final]Individual** 파일로 전환
+   **3. [Semi-Final]Individual** 파일 => **7. [Final]Individual** 파일로 전환
 
 3) **관련 카테고리의 모든 강좌가 회독이 끝날시**
-   **7. [Final]Individual** 파일과 **4. [Total]ALL** 파일을 참고하여 **8. [Final]ALL** 파일을 만든다.
+   **7. [Final]Individual** 파일과 **4. [Semi-Final]ALL** 파일을 참고하여 **8. [Final]ALL** 파일을 만든다.
 
 ----------------------------------------------------------------------------------------
 #### IF 조건 = [Final]ALL 파일이 완성되었을시 실시한다.
