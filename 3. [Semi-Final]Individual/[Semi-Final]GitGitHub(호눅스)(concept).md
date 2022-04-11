@@ -4,13 +4,13 @@ https://www.youtube.com/channel/UCFTMvQIeO94gru6JDn0seDw
 
 
 
-[ 깃헙 토큰 생성하는 과정 ]
+**[ 깃헙 토큰 생성하는 과정 ]**
 
-1. Git Setting - Emails - Keep my email addresses private 해제
-2. Git Setting - Public profile - Public email 설정
-3. Git Setting - Developer setting - Personal access tokens - Generate new token
-   (체크구간!) 기간 90일정도 / workflow / gist / user / delete_repo까지 체크해주고 생성할 것
-   (주의!) 반드시 안전한 곳에 기입해 둘 것, 권한은 바꿀 수 있지만 토큰을 잊어버리면 삭제하고 다시 만들어야 한다.
+1. **Git Setting - Emails - Keep my email addresses private 해제**
+2. **Git Setting - Public profile - Public email 설정**
+3. **Git Setting - Developer setting - Personal access tokens - Generate new token**
+   ( 체크구간! ) 기간 90일정도 / workflow / gist / user / delete_repo까지 체크해주고 생성할 것
+   ( 주의! ) 반드시 안전한 곳에 기입해 둘 것, 권한은 바꿀 수 있지만 토큰을 잊어버리면 삭제하고 다시 만들어야 한다.
 
 ---
 
@@ -18,7 +18,7 @@ https://www.youtube.com/channel/UCFTMvQIeO94gru6JDn0seDw
 
 ---
 
-[ Source Tree 설치 ]
+**[ Source Tree 설치 ]**
 도구 - 옵션 - 인증 - Git 인증 Basic - 토큰 기입 - 설정 초기화(setting as Default)
 
 > **로그인 기입**
@@ -44,7 +44,9 @@ Git GUI 버전
 
 ## Reverse hunk / Discard hunk
 
-=> 코드뭉치 되돌리기 /  코드뭉치 버리기  -  작업을 진행한 파일이 커밋하기 전 상태로 한번 되돌린다. 보통 작업을 하다가 잘 못 생성할 경우 이것을 사용한다.
+=> 코드뭉치 되돌리기 /  코드뭉치 버리기
+작업을 진행한 파일이 커밋하기 전 상태로 한번 되돌린다. 
+보통 작업을 하다가 잘 못 생성할 경우 이것을 사용한다.
 
 
 
