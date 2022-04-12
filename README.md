@@ -1,11 +1,11 @@
 # TIL 관리 계획서
 
-| 모든 폴더명                                      |
-| ------------------------------------------------ |
-| 1. [TIL]Individual<br/>2. [TIL]ALL               |
-| 3. [Semi-Final]Individual<br/>4. [Semi-Final]ALL |
-| 5. [WIL]Individual<br/>6. [MIL]Self-improvement  |
-| 7. [Final]Individual<br/>8. [Final]ALL           |
+| 루틴          | 모든 폴더명                                                  |
+| ------------- | ------------------------------------------------------------ |
+| Ⅰ. TIL 루틴   | 1. [TIL]Individual<br/>2. [TIL]ALL<br/>3. [Semi-Final]Individual |
+| Ⅱ. WIL 루틴   | 4. [Semi-Final]ALL<br/>5. [WIL]Individual<br/>★ 주말피드백 ★ |
+| Ⅲ. MIL 루틴   | 6. [MIL]Self-improvement                                     |
+| Ⅳ. FINAL 루틴 | 7. [Final]Individual<br/>8. [Final]ALL                       |
 
 <br/>
 
